@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+header {
+  background-color: #f8f9fa;
+  padding: 10px 20px;
+  text-align: right;
+}
+
+nav a {
+  text-decoration: none;
+  color: #007bff;
+  margin-left: 10px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
